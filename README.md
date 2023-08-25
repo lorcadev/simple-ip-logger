@@ -8,6 +8,7 @@
 - Kordinatları
 - Zaman dilimi
 - ISP , ORG bilgileri
+
 Yanlızca eğitim için paylaşılmıştır. Yasal hükümlülükleri göz önünde bulundurarak kullanınız.
 
 
@@ -20,4 +21,5 @@ Yanlızca eğitim için paylaşılmıştır. Yasal hükümlülükleri göz önü
 - Coordinates
 - Time zone
 - ISP, ORG information
+
 It is shared only for education. Use it taking into account legal convictions.
