@@ -1,5 +1,5 @@
 # Features
-###TR
+#TR
 - IP Adresi
 -  Şehir
 - İlçe
@@ -8,10 +8,10 @@
 - Kordinatları
 - Zaman dilimi
 - ISP , ORG bilgileri
-######Yanlızca eğitim için paylaşılmıştır. Yasal hükümlülükleri göz önünde bulundurarak kullanınız.
+Yanlızca eğitim için paylaşılmıştır. Yasal hükümlülükleri göz önünde bulundurarak kullanınız.
 
 
-###ENG
+#ENG
 - IP Address
 - The City
 - The district
@@ -20,4 +20,4 @@
 - Coordinates
 - Time zone
 - ISP, ORG information
-######It is shared only for education. Use it taking into account legal convictions.
+It is shared only for education. Use it taking into account legal convictions.
