@@ -1,0 +1,29 @@
+{
+  "name": "package.json",
+  "version": "0.0.1",
+  "description": "Easy setup , simple ip logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorcadev/simple-ip-logger.git"
+  },
+  "keywords": [
+    "Ip",
+    "Logger",
+    "IP",
+    "Logger"
+  ],
+  "author": "Lorca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorcadev/simple-ip-logger/issues"
+  },
+  "homepage": "https://github.com/lorcadev/simple-ip-logger#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
